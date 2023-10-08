@@ -71,3 +71,4 @@ new Date(parseInt(nS) * 1000).toLocaleString().replace(/:\d{1,2}$/, "");
 | https://auto-animate.formkit.com/                                | 动画             |
 | https://www.html5plus.org/doc/zh_cn/webview.html                 | h5+              |
 | https://nutui.jd.com/bingo/#/                                    | 抽奖 ui          |
+| https://www.photopea.com/                                    | 网页ps          |
